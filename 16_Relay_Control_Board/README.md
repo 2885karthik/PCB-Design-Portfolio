@@ -73,15 +73,6 @@ The PCB was developed to control multiple electrical loads through relay outputs
 
 ---
 
-### 3D Front View
-
-![3D Front](3D_Front.png)
-
----
-
-### 3D Back View
-
-![3D Back](3D_Back.png)
 
 ---
 
