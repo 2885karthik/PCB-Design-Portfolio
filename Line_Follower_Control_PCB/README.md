@@ -78,7 +78,6 @@ The board integrates power regulation, motor driver circuitry, communication int
 
 ```
 README.md
-Board.step
 Top_View.png
 Bottom_View.png
 3D_Front.png
